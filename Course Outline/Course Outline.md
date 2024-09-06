@@ -49,7 +49,7 @@ Disciplined/Professional
  Students and Instructors may contact the Institutional Research Department if there is a need to make suggestions or comments that can help further improve the course. A link is also provided on your ZABDESK account for frequent and trouble-free feedback. The Institutional Research Department would like to hear your feedback about the following:
  | Students | Instructors |
  | ----------- | ----------- |
- |**.**   Course Content/ thoroughness <br> **.**   Lecture Delivery/Supplementary Material <br> **.**   Facilities/Labs/Software/Hardware Support <br> **.**   Course alignment with learning outcomes <br> **.**   Any other comments/feedback | **.**    Availability of teaching material <br> **.**   Facilities/Internet/Administrative Support <br> **.**   Labs: Software/Hardware/Technical support <br> **.**       Availability and quality of Teaching Instruments <br> **.**   Any other comments/feedback|
+ |**.**   Course Content/ thoroughness <br> **.**   Lecture Delivery/Supplementary Material <br> **.**   Facilities/Labs/Software/Hardware Support <br> **.**   Course alignment with learning outcomes <br> **.**   Any other comments/feedback | **.**  Availability of teaching material <br> **.**   Facilities/Internet/Administrative Support <br> **.**   Labs: Software/Hardware/Technical support <br> **.**       Availability and quality of Teaching Instruments <br> **.**   Any other comments/feedback|
  
 
 
