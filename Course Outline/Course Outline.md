@@ -37,4 +37,19 @@ Disciplined/Professional
 | 13 | 9 | Matrix Algebra 9.1 Introduction to Matrices 9.2 Types of matrices 9.3 Matrix operations 9.4 Determinants and Cramer’s rule Pre-reading Material: Concept of Matrices and its types Post-reading: Practice Ex-9.2, Ex-9.3, Ex-9.4 on page 355, 366, 379 |
 | 14 | 9 | Matrix Algebra 9.5 Inverse of matrix 9.6 Applications of Matrix Algebra Pre-reading Material: Application of Matrices in problem solving. Post-reading: Practice Ex-9.5, Ex-9.6 on page 389, 404 |
 | 15 | 10 | Linear Programming 10.1 Systems of linear inequalities, Corner-Point solutions Pre-reading Material: concept of two variable inequalities, concept of true and false shading, feasible region, corner point solution. Post-reading: Practice Ex-10.2 on page 439 |
+### Text Book
+ Applied Mathematics for Business, Economics and the Social Sciences, Frank S. Budnick, 4th Edition, McGraw-Hill, Inc.
+ ### Attendance Policy
+ Prompt arrival and regular attendance are extremely important. For Academic policy refer to student handbook for policies on late entry, maximum absences allowed, leave application etc.
+ ### Students with Physical or Educational Challenges
+ Students with educational and/or physical challenges are entitled to extra attention and time from the instructor. Therefore students are advised to notify the course instructor at the beginning of the course. Special arrangement may also be made on prior request based on specific challenges.
+ ### Academic Integrity
+ This course seeks to empower students for independent learning, resourcefulness, clear thinking, and perception. All submitted work and activities should be genuine reflections of individual achievement from which the student should derive personal satisfaction and a sense of accomplishment. Plagiarism and cheating subvert these goals and will be treated according to the policy stated in the Student Handbook. The instructor reserves the right to utilize electronic means to help prevent plagiarism.
+ ### Comments and/or Suggestions
+ Students and Instructors may contact the Institutional Research Department if there is a need to make suggestions or comments that can help further improve the course. A link is also provided on your ZABDESK account for frequent and trouble-free feedback. The Institutional Research Department would like to hear your feedback about the following:
+ | Students | Instructors |
+ | ----------- | ----------- |
+ |-  Course Content/ thoroughness <br> -  Lecture Delivery/Supplementary Material <br> -  Facilities/Labs/Software/Hardware Support <br> -  Course alignment with learning outcomes <br> -  Any other comments/feedback | -   Availability of teaching material <br> -  Facilities/Internet/Administrative Support <br> -  Labs: Software/Hardware/Technical support <br> -  Availability and quality of Teaching Instruments <br> -  Any other comments/feedback|
+ 
+
 
