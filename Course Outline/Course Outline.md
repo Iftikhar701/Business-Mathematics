@@ -20,7 +20,7 @@ Well prepared and organized lectures, daily life examples and cases in order to 
 Disciplined/Professional
 
 ### Course Plan 
-| Week | Chapters | SessionTopic |
+| Week | Chapters | Session Topics |
 | ----------- | ----------- |----------- |
 | 1 | 1 | Some Preliminaries 1.1 Solving first degree equations 1.2 Solving second degree equations 1.3 Solving Inequalities, & Rectangular coordinate systems. Pre-reading Material: None Post-reading: Practice Ex-1.1, Ex-1.2, Ex-1.3, Ex-1.5 on page 7, 11, 19, 29 | 
 | 2 | 2 | Linear Equations 2.1 Linear equations with two variables 2.2 Graphical representation of two variable Linear equation, Linear equations involving two or more variables. Pre-reading Material: Concept of equation, expression, inequality. How to solve linear equation in one variable. Post-reading: Practice Ex-2.1, Ex-2.2 on page 40, 51 |
